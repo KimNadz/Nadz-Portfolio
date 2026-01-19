@@ -73,7 +73,7 @@ const Contact = () => {
           user_name: form.name,
           my_name: "Justin Nadela",
           user_email: form.email,
-          my_email: "Justin NadelaJustin Nadeladay@gmail.com",
+          my_email: "Justin NadelaJustin NadelaJustin Nadela@gmail.com",
           user_message: form.message,
         },
         publicKey
