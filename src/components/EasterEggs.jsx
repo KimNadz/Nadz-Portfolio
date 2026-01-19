@@ -62,7 +62,7 @@ const EasterEggs = () => {
           );
         }, 800);
 
-        ["Kent", "kent", "kent"].forEach((name) => {
+        ["Justin Nadela", "Justin Nadela", "Justin Nadela"].forEach((name) => {
           if (Object.hasOwn(window, name)) return;
           Object.defineProperty(window, name, {
             get() {
